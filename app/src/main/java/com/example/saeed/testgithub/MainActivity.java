@@ -18,4 +18,9 @@ public class MainActivity extends AppCompatActivity {
 
         i = i + 1;
     }
+
+    private void PullDownMethod(){
+        int j = 0;
+    }
+
 }
